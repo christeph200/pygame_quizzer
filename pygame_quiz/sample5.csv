@@ -1,0 +1,15 @@
+subject_id,topic_id,question_type,question,marks,time_to_spend,difficulty_level,hint,total_answers,correct_answer,answer 1,answer 2,answer 3,answer 4,answer 5
+,,,"
+A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?
+",,,,,4,2,65 sec,89 sec,100 sec,150 sec
+,,,"
+Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:
+",,,,,4,1,50 m,72 m,80 m,82 m
+,,,"A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?
+",,,,,4,1,40 sec,42 sec,45 sec,48 sec
+,,,"
+Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:
+",,,,,4,3,36,45,48,49
+,,,"
+A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?
+",,,,,4,3,3.6 sec,18 sec,36 sec,72 sec
